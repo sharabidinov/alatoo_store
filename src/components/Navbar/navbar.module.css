@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.appBar {
+  background: white;
+  color: black;
+}
+.searchInBar {
+  margin-right: 25% !important;
+  width: 35vw !important;
+  border: 1px solid lightgrey;
+}
+
+.logo_div:hover {
+  cursor: pointer;
+}
+
+.logoDrawer {
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
+
+.logoText {
+  margin-left: 10px;
+  color: rgba(17, 17, 17, 0.774);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding: 0;
+}
+
+.logo_div {
+  display: flex;
+  width: fit-content;
+  justify-content: center;
+  align-items: center;
+}
+
+/* modal */
+.mainDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.inputs {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.inputs > input {
+  height: 40px;
+  margin-bottom: 25px;
+  width: 300px;
+  padding-left: 20px;
+}
+
+.inputs > button {
+  height: 40px;
+  width: 60px;
+}
+
+.links {
+  display: flex;
+  margin-top: 20px;
+}
+
+.btn {
+  line-height: 45px;
+  height: 40px;
+  text-align: center;
+  padding-bottom: 5px;
+  width: 100px;
+  cursor: pointer;
+  border: 1px solid black;
+}
+
+.btn:hover {
+  border: 1px solid grey;
+}
+
+.secondLink {
+  margin-left: 140px;
+}
+
+.links > p:hover {
+  color: rgb(152, 149, 149);
+  cursor: pointer;
+}

@@ -1,0 +1,86 @@
+.mainDiv {
+  margin: 71px 40px 40px 40px;
+  display: flex;
+  letter-spacing: 1.3px;
+  flex-wrap: wrap;
+}
+
+.textDiv {
+  margin-top: 50px;
+  width: fit-content;
+  width: 50%;
+}
+
+.textDiv > h1 {
+  margin: 0px 0px 40px 0px;
+}
+
+.textDiv > h2 {
+  margin: 50px 0;
+}
+
+.buyBtn {
+  height: 60px;
+  width: 150px;
+  background-color: white;
+  border: 1px solid black;
+  color: black;
+  font-weight: bolder;
+  letter-spacing: 2px;
+  margin-top: 20px;
+}
+
+.buyBtn:hover {
+  background-color: #d5393a;
+  border: 1px solid #d5393a;
+  color: white;
+  transition: 0.4s;
+}
+
+.description {
+  font-size: 23px;
+  font-weight: lighter;
+}
+
+.material {
+  font-size: 20px;
+  font-weight: lighter;
+  margin-top: 30px;
+}
+
+.icon {
+  cursor: pointer;
+  position: relative;
+  width: 50px;
+  height: 50px;
+  margin-left: 120px;
+  margin-right: 20px;
+  margin-top: 75px;
+  border-radius: 30px;
+  overflow: hidden;
+  border: 1px solid black;
+}
+
+.icon:hover {
+  border: 1px solid #d5393a;
+  background-color: #d5393a;
+  transition: 0.5s;
+}
+
+.iconI:hover {
+  color: white;
+}
+
+.iconI {
+  position: relative;
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  margin-top: 15px;
+  transition: all 0.25s ease;
+  margin-left: 12px;
+}
+
+.swiperMain {
+  width: 24%;
+  margin-top: 40px;
+}

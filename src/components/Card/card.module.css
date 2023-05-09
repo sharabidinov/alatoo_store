@@ -1,0 +1,19 @@
+.mainDiv {
+  background-color: rgb(241, 239, 239);
+  display: flex;
+  flex-direction: column;
+  padding: 1px;
+  margin: 0px 20px 50px 30px;
+  height: fit-content;
+}
+
+.mainDiv > p {
+  margin-left: 20px;
+}
+
+.mainDiv:hover {
+  cursor: pointer;
+  color: white;
+  background-color: #2d2652;
+  transition: 0.7s;
+}

@@ -1,0 +1,50 @@
+.mainDiv {
+  display: flex;
+  margin-top: 0;
+  padding-top: 0;
+  margin: 0px 40px;
+  align-items: center;
+}
+
+.theMainestDiv {
+  padding-top: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 650px;
+}
+
+.infoDiv {
+  width: 500px;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 130px;
+  margin-top: 30px;
+}
+
+p {
+  font-size: 20px;
+}
+
+.aboutDiv {
+  display: flex;
+  width: 500px;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.aboutP {
+  margin-bottom: 0;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.firstInfo {
+  font-weight: bold;
+}
+
+.secondInfo {
+  font-weight: lighter;
+}

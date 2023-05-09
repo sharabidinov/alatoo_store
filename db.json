@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "productName": "Tank Top",
+      "price": "1300",
+      "description": "Lorem wqacnlk qwdkmxwdq dqcxmkldqw dwjndqwlkdx qwdqwkndx lqkwdqwdn qwlkad qwd qw;kmdqw dkmdwqdnlk wqdlk wed wednjwendkl we ewdnclwkemdq;w dwencmkweldm wqd  emcwelkmcwe",
+      "id": 1,
+      "img": "https://img.ltwebstatic.com/images3_pi/2022/03/15/1647326454d673a38a94583b4d465f5844bd451965_thumbnail_900x.webp",
+      "image1": "https://img.ltwebstatic.com/images3_pi/2022/03/02/1646184888ca4222078795928d884c7643006fafe1_thumbnail_900x.webp",
+      "image2": "https://img.ltwebstatic.com/images3_pi/2022/03/15/1647326455cb4e9505a6287f6024bc3967631fd58c_thumbnail_900x.webp",
+      "image3": "https://img.ltwebstatic.com/images3_pi/2022/03/15/16473264584cd78a73242f3a98ed2d1dfe8168cd87_thumbnail_900x.webp"
+    },
+    {
+      "productName": "Pants",
+      "price": "1200",
+      "description": "Lorem wqacnlk qwdkmxwdq dqcxmkldqw dwjndqwlkdx qwdqwkndx lqkwdqwdn qwlkad qwd qw;kmdqw dkmdwqdnlk wqdlk wed wednjwendkl we ewdnclwkemdq;w dwencmkweldm wqd  emcwelkmcwe",
+      "id": 2,
+      "img": "https://img.ltwebstatic.com/images3_pi/2021/10/23/1634982209923d9f3b56b4e2ddc5863aec5418412a_thumbnail_900x.webp",
+      "image1": "https://img.ltwebstatic.com/images3_pi/2021/10/23/1634982212176fe67326f4ffc0fb8837cc3c89743d_thumbnail_900x.webp",
+      "image2": "https://img.ltwebstatic.com/images3_pi/2021/10/23/16349822134f4a212a4a268f64bb5bfe40f588fcdc_thumbnail_900x.webp",
+      "image3": "https://img.ltwebstatic.com/images3_pi/2021/10/23/16349822159f56a3108e6dd5a5872987ffd65cdc2b_thumbnail_900x.webp"
+    },
+    {
+      "productName": "Sweatpants",
+      "price": "1500",
+      "description": "Lorem wqacnlk qwdkmxwdq dqcxmkldqw dwjndqwlkdx qwdqwkndx lqkwdqwdn qwlkad qwd qw;kmdqw dkmdwqdnlk wqdlk wed wednjwendkl we ewdnclwkemdq;w dwencmkweldm wqd  emcwelkmcwe",
+      "id": 3,
+      "img": "https://img.ltwebstatic.com/images3_pi/2022/06/23/1655965072d2e98107986b9bc31cb7f1263249b35d_thumbnail_900x.webp",
+      "image1": "https://img.ltwebstatic.com/images3_pi/2022/06/23/1655965074de81d5bcccde59c84966d6046538580d_thumbnail_900x.webp",
+      "image2": "https://img.ltwebstatic.com/images3_pi/2022/06/23/16559650771c5db45dc683067c8cb4716360bde125_thumbnail_900x.webp",
+      "image3": "https://img.ltwebstatic.com/images3_pi/2022/06/23/165596508069a65db1a7c33c04bd7f0693db056c29_thumbnail_900x.webp"
+    },
+    {
+      "productName": "Black Hoodie",
+      "price": "12.99",
+      "description": "Lorem wqacnlk qwdkmxwdq dqcxmkldqw dwjndqwlkdx qwdqwkndx lqkwdqwdn qwlkad qwd qw;kmdqw dkmdwqdnlk wqdlk wed wednjwendkl we ewdnclwkemdq;w dwencmkweldm wqd  emcwelkmcwe",
+      "id": 4,
+      "img": "https://img.ltwebstatic.com/images3_pi/2021/09/10/16312451778d490458e070a5c26c6594ff776e2a35_thumbnail_900x.webp",
+      "image1": "https://img.ltwebstatic.com/images3_pi/2021/09/10/16312451786ce871edccd5325f5f563f3c93948403_thumbnail_900x.webp",
+      "image2": "https://img.ltwebstatic.com/images3_pi/2021/09/10/16312451801cbe65e25d845b8ee54ab7938651abe6_thumbnail_900x.webp",
+      "image3": "https://img.ltwebstatic.com/images3_pi/2021/09/10/16312451801cbe65e25d845b8ee54ab7938651abe6_thumbnail_900x.webp"
+    },
+    {
+      "productName": "Shorts",
+      "price": "900",
+      "description": "Lorem wqacnlk qwdkmxwdq dqcxmkldqw dwjndqwlkdx qwdqwkndx lqkwdqwdn qwlkad qwd qw;kmdqw dkmdwqdnlk wqdlk wed wednjwendkl we ewdnclwkemdq;w dwencmkweldm wqd  emcwelkmcwe",
+      "id": 5,
+      "img": "https://img.ltwebstatic.com/images3_pi/2021/12/23/164023711153672415259c4bd010d30567fd12fa88_thumbnail_900x.webp",
+      "image1": "https://img.ltwebstatic.com/images3_pi/2021/12/23/164023711211bcbba29bc4bd1f736bc60a9e43c9aa_thumbnail_900x.webp",
+      "image2": "https://img.ltwebstatic.com/images3_pi/2021/12/23/1640237114277cae6437a5ec622e2e790de827ce0a_thumbnail_900x.webp",
+      "image3": "https://img.ltwebstatic.com/images3_pi/2021/12/23/1640237115a72db0da4f71a85969f1611f2370985d_thumbnail_900x.webp"
+    },
+    {
+      "productName": "Waist Shorts",
+      "price": "1200",
+      "description": "Lorem wqacnlk qwdkmxwdq dqcxmkldqw dwjndqwlkdx qwdqwkndx lqkwdqwdn qwlkad qwd qw;kmdqw dkmdwqdnlk wqdlk wed wednjwendkl we ewdnclwkemdq;w dwencmkweldm wqd  emcwelkmcwe",
+      "id": 6,
+      "img": "https://img.ltwebstatic.com/images3_pi/2022/03/11/1646975442cf89d58e9b6c1dba9535badc01b5aa0c_thumbnail_900x.webp",
+      "image1": "https://img.ltwebstatic.com/images3_pi/2022/03/11/1646975444312af52509fba9fd4b73f18a2adcfc95_thumbnail_900x.webp",
+      "image2": "https://img.ltwebstatic.com/images3_pi/2022/03/11/16469754451a6b040134758dd98e42df08f7cfa2d6_thumbnail_900x.webp",
+      "image3": "https://img.ltwebstatic.com/images3_pi/2022/03/11/1646975448484c60653e258c2c5972600b4dcb9016_thumbnail_900x.webp"
+    },
+    {
+      "productName": "T-Shirt",
+      "price": "1500",
+      "description": "Lorem wqacnlk qwdkmxwdq dqcxmkldqw dwjndqwlkdx qwdqwkndx lqkwdqwdn qwlkad qwd qw;kmdqw dkmdwqdnlk wqdlk wed wednjwendkl we ewdnclwkemdq;w dwencmkweldm wqd  emcwelkmcwe",
+      "id": 7,
+      "img": "https://img.ltwebstatic.com/images3_pi/2023/03/29/16800764082b5294437fbd4bd5b17bdae9da424438_thumbnail_900x.webp",
+      "image1": "https://img.ltwebstatic.com/images3_pi/2023/02/27/16775033829dd45ba4952cf1a3a11a621fca2945ba_thumbnail_900x.webp",
+      "image2": "https://img.ltwebstatic.com/images3_pi/2022/12/01/1669877768b5d26208c1ba93a85f597ea34d262ae2_thumbnail_900x.webp",
+      "image3": "https://img.ltwebstatic.com/images3_pi/2022/12/01/1669877769651ac878c066b7bbb9d9b001a31d7327_thumbnail_900x.webp"
+    },
+    {
+      "productName": "Skirt",
+      "price": "1000",
+      "description": "Comfortable simple skirt for spring and summer season.",
+      "id": 8,
+      "img": "https://img.ltwebstatic.com/images3_pi/2022/09/28/1664361091f4ccb98b4b56880d3fdf604dc9e853b6_thumbnail_900x.webp",
+      "image1": "https://img.ltwebstatic.com/images3_pi/2022/09/28/16643610921fca429a7f97a6b0a4c5c02b6403ba41_thumbnail_900x.webp",
+      "image2": "https://img.ltwebstatic.com/images3_pi/2022/09/28/16643610934cf9772476da55b84a618832f2d8f39d_thumbnail_900x.webp",
+      "image3": "https://img.ltwebstatic.com/images3_pi/2022/09/28/16643610949b75e380fff19b790bf24dd45f293d16_thumbnail_900x.webp"
+    },
+    {
+      "productName": "Coat",
+      "price": "4000",
+      "description": "Lorem wqacnlk qwdkmxwdq dqcxmkldqw dwjndqwlkdx qwdqwkndx lqkwdqwdn qwlkad qwd qw;kmdqw dkmdwqdnlk wqdlk wed wednjwendkl we ewdnclwkemdq;w dwencmkweldm wqd  emcwelkmcwe",
+      "id": 9,
+      "img": "https://img.ltwebstatic.com/images3_pi/2021/09/23/16323893257dbb5d73dec6e5b316ddbaed1c82389c_thumbnail_900x.webp",
+      "image1": "https://img.ltwebstatic.com/images3_pi/2021/09/23/16323893260d661a70596f43df0e7361d5e4946d13_thumbnail_900x.webp",
+      "image2": "https://img.ltwebstatic.com/images3_pi/2021/09/23/1632389328915df3a9ea939f3bfd3201343cc99b1b_thumbnail_900x.webp",
+      "image3": "https://img.ltwebstatic.com/images3_pi/2021/09/23/16323893326ea95e21e97d6ba734b093ef795ec957_thumbnail_900x.webp"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+.carousel_box {
+  margin-top: 60px;
+  width: 95%;
+  text-align: center;
+  box-shadow: rgba(0, 0, 0, 0.09) 0px 3px 12px;
+  border-radius: 30px;
+  margin-left: 40px;
+}
+
+.carousel_min_box {
+  width: 90%;
+  display: flex;
+  justify-content: space-around;
+
+  padding: 20px 30px;
+  background-image: url(https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/09/s_D930F8BF9DD02D28A0A37A10F2263CBE66B755F885F6F3DBE7C1C17A3128CE11_1661732198695_image.png?resize=1006%2C293&ssl=1);
+}
+
+.carousel_img {
+  background-position: center;
+  width: 200px;
+}
+
+.carousel_img_box {
+  height: 250px;
+}
+
+.carousel_text {
+  font-size: 40px;
+  font-weight: bold;
+}

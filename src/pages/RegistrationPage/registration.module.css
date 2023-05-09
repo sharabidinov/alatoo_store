@@ -1,0 +1,91 @@
+.mainDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 680px;
+}
+
+.inputs {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.inputs > input {
+  height: 40px;
+  margin-bottom: 25px;
+  width: 300px;
+  padding-left: 20px;
+}
+
+.inputs > button {
+  height: 40px;
+  width: 60px;
+}
+
+.links {
+  display: flex;
+  margin-top: 20px;
+}
+
+.btn {
+  line-height: 45px;
+  height: 40px;
+  text-align: center;
+  width: 100px;
+  cursor: pointer;
+  color: #fff;
+  transition: all 0.5s;
+  position: relative;
+}
+
+.btn::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  background-color: rgba(202, 199, 199, 0.327);
+  transition: all 0.3s;
+}
+
+.btn:hover::before {
+  opacity: 0;
+  transform: scale(0.5, 0.5);
+}
+
+.btn::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  opacity: 0;
+  transition: all 0.3s;
+  border: 2px solid rgba(11, 11, 11, 0.5);
+  transform: scale(1.2, 1.2);
+}
+
+.btn:hover::after {
+  opacity: 1;
+  transform: scale(1, 1);
+}
+
+.secondLink {
+  margin-left: 140px;
+}
+
+.links > p {
+  color: rgba(128, 128, 128, 0.702);
+}
+
+.links > p:hover {
+  color: rgb(182, 179, 179);
+  cursor: pointer;
+}

@@ -9,7 +9,7 @@ import img4 from "../../images/img_4.png";
 import img5 from "../../images/img_5.png";
 import img6 from "../../images/img_6.png";
 import img7 from "../../images/img_7.png";
-import img8 from "../../images/img_8.png";
+import img8 from "../../images/img_8.jpg";
 import "./swiper.css";
 
 const Swiper = () => {
@@ -63,16 +63,20 @@ const Swiper = () => {
             </div>
           </div>
           <div className="carousel_min_box">
-            <div className="carousel_text">SPRING DISCOUNT 10%</div>
-            <img src={img3} alt="" className="carousel_img" />
-            <img src={img4} alt="" className="carousel_img" />
-            <img src={img5} alt="" className="carousel_img" />
+            <div className="carousel_text">1 + 1 = 3 GET PRESENT!</div>
+            <div className="carousel_img_box">
+              <img src={img3} alt="" className="carousel_img" />
+              <img src={img4} alt="" className="carousel_img" />
+              <img src={img5} alt="" className="carousel_img" />
+            </div>
           </div>
           <div className="carousel_min_box">
-            <div className="carousel_text">SPRING DISCOUNT 10%</div>
-            <img src={img6} alt="" className="carousel_img" />
-            <img src={img7} alt="" className="carousel_img" />
-            <img src={img8} alt="" className="carousel_img" />
+            <div className="carousel_text">MOST POPULAR</div>
+            <div className="carousel_img_box">
+              <img src={img6} alt="" className="carousel_img" />
+              <img src={img7} alt="" className="carousel_img" />
+              <img src={img8} alt="" className="carousel_img" />
+            </div>
           </div>
         </Carousel>
       </div>

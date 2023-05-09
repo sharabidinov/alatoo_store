@@ -57,7 +57,13 @@ const Details = () => {
         </p>
 
         <p className={classes.material}>
-          <strong>Size:</strong> 40-42-44
+          <strong>Size:</strong>
+          <select name="size" className="select">
+            <option value="40" className="option">40</option>
+            <option value="42" className="option">42</option>
+            <option value="44" className="option">44</option>
+            <option value="48" className="option">48</option>
+          </select>
         </p>
         <h2>{oneProduct?.price} KGS</h2>
 

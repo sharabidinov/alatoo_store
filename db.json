@@ -3,7 +3,7 @@
     {
       "productName": "Tank Top",
       "price": "1300",
-      "description": "Lorem wqacnlk qwdkmxwdq dqcxmkldqw dwjndqwlkdx qwdqwkndx lqkwdqwdn qwlkad qwd qw;kmdqw dkmdwqdnlk wqdlk wed wednjwendkl we ewdnclwkemdq;w dwencmkweldm wqd  emcwelkmcwe",
+      "description": "Made from high-quality materials, our tank tops are designed to keep you cool and comfortable during even the hottest days. The sleeveless design allows for maximum range of motion, making it the ideal choice for outdoor activities like hiking or running.",
       "id": 1,
       "img": "https://img.ltwebstatic.com/images3_pi/2022/03/15/1647326454d673a38a94583b4d465f5844bd451965_thumbnail_900x.webp",
       "image1": "https://img.ltwebstatic.com/images3_pi/2022/03/02/1646184888ca4222078795928d884c7643006fafe1_thumbnail_900x.webp",
@@ -13,7 +13,7 @@
     {
       "productName": "Pants",
       "price": "1200",
-      "description": "Lorem wqacnlk qwdkmxwdq dqcxmkldqw dwjndqwlkdx qwdqwkndx lqkwdqwdn qwlkad qwd qw;kmdqw dkmdwqdnlk wqdlk wed wednjwendkl we ewdnclwkemdq;w dwencmkweldm wqd  emcwelkmcwe",
+      "description": "Made from high-quality materials, our pants are designed to keep you cool and comfortable during even the hottest days. The sleeveless design allows for maximum range of motion, making it the ideal choice for outdoor activities like hiking or running.",
       "id": 2,
       "img": "https://img.ltwebstatic.com/images3_pi/2021/10/23/1634982209923d9f3b56b4e2ddc5863aec5418412a_thumbnail_900x.webp",
       "image1": "https://img.ltwebstatic.com/images3_pi/2021/10/23/1634982212176fe67326f4ffc0fb8837cc3c89743d_thumbnail_900x.webp",
@@ -23,7 +23,7 @@
     {
       "productName": "Sweatpants",
       "price": "1500",
-      "description": "Lorem wqacnlk qwdkmxwdq dqcxmkldqw dwjndqwlkdx qwdqwkndx lqkwdqwdn qwlkad qwd qw;kmdqw dkmdwqdnlk wqdlk wed wednjwendkl we ewdnclwkemdq;w dwencmkweldm wqd  emcwelkmcwe",
+      "description": "Our sweatpants come in a variety of colors and styles, so you can find the perfect match for your personal style. Whether you prefer a classic solid color or a bold graphic print, we have something for everyone.",
       "id": 3,
       "img": "https://img.ltwebstatic.com/images3_pi/2022/06/23/1655965072d2e98107986b9bc31cb7f1263249b35d_thumbnail_900x.webp",
       "image1": "https://img.ltwebstatic.com/images3_pi/2022/06/23/1655965074de81d5bcccde59c84966d6046538580d_thumbnail_900x.webp",
@@ -33,7 +33,7 @@
     {
       "productName": "Black Hoodie",
       "price": "12.99",
-      "description": "Lorem wqacnlk qwdkmxwdq dqcxmkldqw dwjndqwlkdx qwdqwkndx lqkwdqwdn qwlkad qwd qw;kmdqw dkmdwqdnlk wqdlk wed wednjwendkl we ewdnclwkemdq;w dwencmkweldm wqd  emcwelkmcwe",
+      "description": "Our hoodies come in a variety of colors and styles, so you can find the perfect match for your personal style. Whether you prefer a classic solid color or a bold graphic print, we have something for everyone.",
       "id": 4,
       "img": "https://img.ltwebstatic.com/images3_pi/2021/09/10/16312451778d490458e070a5c26c6594ff776e2a35_thumbnail_900x.webp",
       "image1": "https://img.ltwebstatic.com/images3_pi/2021/09/10/16312451786ce871edccd5325f5f563f3c93948403_thumbnail_900x.webp",
@@ -43,7 +43,7 @@
     {
       "productName": "Shorts",
       "price": "900",
-      "description": "Lorem wqacnlk qwdkmxwdq dqcxmkldqw dwjndqwlkdx qwdqwkndx lqkwdqwdn qwlkad qwd qw;kmdqw dkmdwqdnlk wqdlk wed wednjwendkl we ewdnclwkemdq;w dwencmkweldm wqd  emcwelkmcwe",
+      "description": "Our shorts come in a variety of colors and styles, so you can find the perfect match for your personal style. Whether you prefer a classic solid color or a bold graphic print, we have something for everyone.",
       "id": 5,
       "img": "https://img.ltwebstatic.com/images3_pi/2021/12/23/164023711153672415259c4bd010d30567fd12fa88_thumbnail_900x.webp",
       "image1": "https://img.ltwebstatic.com/images3_pi/2021/12/23/164023711211bcbba29bc4bd1f736bc60a9e43c9aa_thumbnail_900x.webp",
@@ -53,7 +53,7 @@
     {
       "productName": "Waist Shorts",
       "price": "1200",
-      "description": "Lorem wqacnlk qwdkmxwdq dqcxmkldqw dwjndqwlkdx qwdqwkndx lqkwdqwdn qwlkad qwd qw;kmdqw dkmdwqdnlk wqdlk wed wednjwendkl we ewdnclwkemdq;w dwencmkweldm wqd  emcwelkmcwe",
+      "description": "Our waist shorts come in a variety of colors and styles, so you can find the perfect match for your personal style. Whether you prefer a classic solid color or a bold graphic print, we have something for everyone.",
       "id": 6,
       "img": "https://img.ltwebstatic.com/images3_pi/2022/03/11/1646975442cf89d58e9b6c1dba9535badc01b5aa0c_thumbnail_900x.webp",
       "image1": "https://img.ltwebstatic.com/images3_pi/2022/03/11/1646975444312af52509fba9fd4b73f18a2adcfc95_thumbnail_900x.webp",
@@ -63,7 +63,7 @@
     {
       "productName": "T-Shirt",
       "price": "1500",
-      "description": "Lorem wqacnlk qwdkmxwdq dqcxmkldqw dwjndqwlkdx qwdqwkndx lqkwdqwdn qwlkad qwd qw;kmdqw dkmdwqdnlk wqdlk wed wednjwendkl we ewdnclwkemdq;w dwencmkweldm wqd  emcwelkmcwe",
+      "description": "Our t-shirts come in a variety of colors and styles, so you can find the perfect match for your personal style. Whether you prefer a classic solid color or a bold graphic print, we have something for everyone.",
       "id": 7,
       "img": "https://img.ltwebstatic.com/images3_pi/2023/03/29/16800764082b5294437fbd4bd5b17bdae9da424438_thumbnail_900x.webp",
       "image1": "https://img.ltwebstatic.com/images3_pi/2023/02/27/16775033829dd45ba4952cf1a3a11a621fca2945ba_thumbnail_900x.webp",
@@ -83,12 +83,62 @@
     {
       "productName": "Coat",
       "price": "4000",
-      "description": "Lorem wqacnlk qwdkmxwdq dqcxmkldqw dwjndqwlkdx qwdqwkndx lqkwdqwdn qwlkad qwd qw;kmdqw dkmdwqdnlk wqdlk wed wednjwendkl we ewdnclwkemdq;w dwencmkweldm wqd  emcwelkmcwe",
+      "description": "This coat come in a variety of colors and styles, so you can find the perfect match for your personal style. Whether you prefer a classic solid color or a bold graphic print, we have something for everyone.",
       "id": 9,
       "img": "https://img.ltwebstatic.com/images3_pi/2021/09/23/16323893257dbb5d73dec6e5b316ddbaed1c82389c_thumbnail_900x.webp",
       "image1": "https://img.ltwebstatic.com/images3_pi/2021/09/23/16323893260d661a70596f43df0e7361d5e4946d13_thumbnail_900x.webp",
       "image2": "https://img.ltwebstatic.com/images3_pi/2021/09/23/1632389328915df3a9ea939f3bfd3201343cc99b1b_thumbnail_900x.webp",
       "image3": "https://img.ltwebstatic.com/images3_pi/2021/09/23/16323893326ea95e21e97d6ba734b093ef795ec957_thumbnail_900x.webp"
+    },
+    {
+      "productName": "T-Shirt",
+      "price": "1200",
+      "description": "This t-shirt come in a variety of colors and styles, so you can find the perfect match for your personal style. Whether you prefer a classic solid color or a bold graphic print, we have something for everyone.",
+      "id": 10,
+      "img": "https://img.ltwebstatic.com/images3_pi/2022/04/28/1651121739d998bb26c0121bb577284478c3eabf8e_thumbnail_900x.webp",
+      "image1": "https://img.ltwebstatic.com/images3_pi/2022/04/28/1651121742c5d735438dd8157140d93ebfce2b1d09_thumbnail_900x.webp",
+      "image2": "https://img.ltwebstatic.com/images3_pi/2022/09/30/1664507799633e6073741b25633830cca753358c59_thumbnail_900x.webp",
+      "image3": "https://img.ltwebstatic.com/images3_pi/2022/05/27/16536190773b8e1e604072aa952e88d31eaa72fa27_thumbnail_900x.webp"
+    },
+    {
+      "productName": "Tank Romper",
+      "price": "1600",
+      "description": "This romper come in a variety of colors and styles, so you can find the perfect match for your personal style. Whether you prefer a classic solid color or a bold graphic print, we have something for everyone.",
+      "id": 11,
+      "img": "https://img.ltwebstatic.com/images3_pi/2021/07/08/1625710574dfdbcc2488971f171e23f92d29c9334e_thumbnail_900x.webp",
+      "image1": "https://img.ltwebstatic.com/images3_pi/2021/07/08/1625710579deab011bcbde32c19ca3b1f22be5d5d0_thumbnail_900x.webp",
+      "image2": "https://img.ltwebstatic.com/images3_pi/2021/07/08/162571057739345767449d7add92390c9fe86367b8_thumbnail_900x.webp",
+      "image3": "https://img.ltwebstatic.com/images3_pi/2021/07/08/16257105804d3182e475fb890571f0e6e00604f7bf_thumbnail_900x.webp"
+    },
+    {
+      "productName": "Basic Shirt",
+      "price": "900",
+      "description": "This shirt come in a variety of colors and styles, so you can find the perfect match for your personal style. Whether you prefer a classic solid color or a bold graphic print, we have something for everyone.",
+      "id": 12,
+      "img": "https://img.ltwebstatic.com/images3_pi/2022/04/11/1649667728282ca31b9930c435a92a5f8b7ea09fd1_thumbnail_900x.webp",
+      "image1": "https://img.ltwebstatic.com/images3_pi/2022/04/11/164966773097d55ba24f0f85ff78f4fac7371091df_thumbnail_900x.webp",
+      "image2": "https://img.ltwebstatic.com/images3_pi/2022/04/11/1649667729444b5f36682785ad8b7e894feb264ed0_thumbnail_900x.webp",
+      "image3": "https://img.ltwebstatic.com/images3_pi/2023/03/20/16792940783cb000f2f88c8d830af4f69c5f2ca685_thumbnail_900x.webp"
+    },
+    {
+      "productName": "Bodycon Dress",
+      "price": "1800",
+      "description": "This dress come in a variety of colors and styles, so you can find the perfect match for your personal style. Whether you prefer a classic solid color or a bold graphic print, we have something for everyone.",
+      "id": 13,
+      "img": "https://img.ltwebstatic.com/images3_pi/2021/03/23/161646918085f9d86626936cd29f46913ed7eab12c_thumbnail_900x.webp",
+      "image1": "https://img.ltwebstatic.com/images3_pi/2021/03/23/1616469183bf5b3acda9a5d891828e7328db3d1465_thumbnail_900x.webp",
+      "image2": "https://img.ltwebstatic.com/images3_pi/2021/03/23/16164691867dfd21be2b905097bf01f6e9eec4caca_thumbnail_900x.webp",
+      "image3": "https://img.ltwebstatic.com/images3_pi/2021/03/23/1616469178008063561fbd3c0202c70d6bd5044043_thumbnail_900x.webp"
+    },
+    {
+      "productName": "Leg Jeans",
+      "price": "2300",
+      "description": "These jeans come in a variety of colors and styles, so you can find the perfect match for your personal style. Whether you prefer a classic solid color or a bold graphic print, we have something for everyone.",
+      "id": 14,
+      "img": "https://img.ltwebstatic.com/images3_pi/2023/04/17/16817415213ef7c5a293ec391b4414fb436218fcb8_thumbnail_900x.webp",
+      "image1": "https://img.ltwebstatic.com/images3_pi/2023/04/17/168174152617cbd689191b7f8af9523968e20e2e84_thumbnail_900x.webp",
+      "image2": "https://img.ltwebstatic.com/images3_pi/2023/04/17/168174153112a6f077274563ddb1710193eaa3ce53_thumbnail_900x.webp",
+      "image3": "https://img.ltwebstatic.com/images3_pi/2023/04/17/168174152396c19360712268a2749ea404e3c37524_thumbnail_900x.webp"
     }
   ]
 }

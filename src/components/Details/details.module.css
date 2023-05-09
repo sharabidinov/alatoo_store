@@ -84,3 +84,15 @@
   width: 24%;
   margin-top: 40px;
 }
+
+.select {
+  border: none;
+  outline: none;
+  margin-left: 10px;
+  width: 50px;
+}
+
+.option {
+  border: none;
+  outline: none;
+}

@@ -8,10 +8,9 @@
 }
 
 .carousel_min_box {
-  width: 90%;
+  width: 100%;
   display: flex;
-  justify-content: space-around;
-
+  justify-content: space-between;
   padding: 20px 30px;
   background-image: url(https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/09/s_D930F8BF9DD02D28A0A37A10F2263CBE66B755F885F6F3DBE7C1C17A3128CE11_1661732198695_image.png?resize=1006%2C293&ssl=1);
 }
@@ -22,10 +21,12 @@
 }
 
 .carousel_img_box {
+  width: 800px;
   height: 250px;
 }
 
 .carousel_text {
-  font-size: 40px;
+  margin-top: 60px;
+  font-size: 45px;
   font-weight: bold;
 }

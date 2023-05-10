@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/alatoo_store/static/css/main.023cf768.css",
-    "main.js": "/alatoo_store/static/js/main.c8079318.js",
-    "static/media/img_5.png": "/alatoo_store/static/media/img_5.79ba2cdd6dcf81e90dc3.png",
-    "static/media/img_4.png": "/alatoo_store/static/media/img_4.cbce8bd21b7f310e5710.png",
-    "static/media/img_3.png": "/alatoo_store/static/media/img_3.7d8301b226bc5373de31.png",
-    "static/media/img_2.png": "/alatoo_store/static/media/img_2.2f131d49a3937314d5da.png",
-    "static/media/img_6.png": "/alatoo_store/static/media/img_6.03cd61d5b96dc6a2724a.png",
-    "static/media/img_7.png": "/alatoo_store/static/media/img_7.4d8dd2541b2cde496889.png",
-    "static/media/img_1.png": "/alatoo_store/static/media/img_1.c95b03e7687228ce42b0.png",
-    "static/media/logo.jpg": "/alatoo_store/static/media/logo.82d19a071c87921917bf.jpg",
-    "static/media/img_8.jpg": "/alatoo_store/static/media/img_8.0529a9b26ddcf6fd2e76.jpg",
-    "static/media/img.png": "/alatoo_store/static/media/img.4d884eee743ec032b93c.png",
-    "static/media/revicons.eot": "/alatoo_store/static/media/revicons.a77de540a38981833f9e.eot",
-    "static/media/revicons.ttf": "/alatoo_store/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/revicons.woff": "/alatoo_store/static/media/revicons.e8746a624ed098489406.woff",
-    "index.html": "/alatoo_store/index.html",
-    "main.023cf768.css.map": "/alatoo_store/static/css/main.023cf768.css.map",
-    "main.c8079318.js.map": "/alatoo_store/static/js/main.c8079318.js.map"
+    "main.css": "/alatoo_shop/static/css/main.3e01b521.css",
+    "main.js": "/alatoo_shop/static/js/main.b04ebbb6.js",
+    "static/media/img_5.png": "/alatoo_shop/static/media/img_5.79ba2cdd6dcf81e90dc3.png",
+    "static/media/img_4.png": "/alatoo_shop/static/media/img_4.cbce8bd21b7f310e5710.png",
+    "static/media/img_3.png": "/alatoo_shop/static/media/img_3.7d8301b226bc5373de31.png",
+    "static/media/img_2.png": "/alatoo_shop/static/media/img_2.2f131d49a3937314d5da.png",
+    "static/media/img_6.png": "/alatoo_shop/static/media/img_6.03cd61d5b96dc6a2724a.png",
+    "static/media/img_7.png": "/alatoo_shop/static/media/img_7.4d8dd2541b2cde496889.png",
+    "static/media/img_1.png": "/alatoo_shop/static/media/img_1.c95b03e7687228ce42b0.png",
+    "static/media/logo.jpg": "/alatoo_shop/static/media/logo.82d19a071c87921917bf.jpg",
+    "static/media/img_8.jpg": "/alatoo_shop/static/media/img_8.0529a9b26ddcf6fd2e76.jpg",
+    "static/media/img.png": "/alatoo_shop/static/media/img.4d884eee743ec032b93c.png",
+    "static/media/revicons.eot": "/alatoo_shop/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/alatoo_shop/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/alatoo_shop/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/alatoo_shop/index.html",
+    "main.3e01b521.css.map": "/alatoo_shop/static/css/main.3e01b521.css.map",
+    "main.b04ebbb6.js.map": "/alatoo_shop/static/js/main.b04ebbb6.js.map"
   },
   "entrypoints": [
-    "static/css/main.023cf768.css",
-    "static/js/main.c8079318.js"
+    "static/css/main.3e01b521.css",
+    "static/js/main.b04ebbb6.js"
   ]
 }

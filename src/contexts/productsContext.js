@@ -20,7 +20,7 @@ function reducer(state = INIT_STATE, action) {
 }
 
 const ProductContextProvider = ({ children }) => {
-  const API = "http://localhost:8000/products";
+  const API = "https://alatoo-merch-products.onrender.com/products";
 
   const [state, dispatch] = useReducer(reducer, INIT_STATE);
 

@@ -21,11 +21,11 @@ const UserPage = () => {
             <p>Number: </p>
           </div>
           <div className={classes.secondInfo}>
-            <p>Aliia</p>
-            <p>Malaeva</p>
-            <p>2004.22.01</p>
-            <p>malaevaid@gmail.com</p>
-            <p>+996 554 065 075</p>
+            <p>Alymbek</p>
+            <p>Sharabidinov</p>
+            <p>2002.07.04</p>
+            <p>alymbeksharabidinov1@gmail.com</p>
+            <p>+996 708 216 268</p>
           </div>
         </div>
       </div>
